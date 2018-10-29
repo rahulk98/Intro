@@ -1,2 +1,1 @@
-# Intro
-# That's correct
+# SCIT
