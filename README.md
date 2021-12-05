@@ -1,1 +1,1 @@
-Tasks given as a part of SCIT
+## Tasks given as a part of SCIT program
